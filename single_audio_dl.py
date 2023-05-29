@@ -33,7 +33,7 @@ option = input()
 trackIndex = 0
 
 try:
-    trackIndex = int(option)
+    trackIndex = int(option) - 1
 
 except ValueError:
     print("Incorrect input provided.")
