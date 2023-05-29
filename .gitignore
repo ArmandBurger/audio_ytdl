@@ -10,3 +10,7 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+# Other files
+*.mp4
+*.opus
