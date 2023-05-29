@@ -1,6 +1,6 @@
 # Youtube Audio Downloader
 
-Simple CLI youtube audio downloader.
+Simple python CLI youtube audio downloader.
 
 ## How to use?
 
